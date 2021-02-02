@@ -1,10 +1,10 @@
 ### Hi there, I'm Lucas 👋
 
-👨‍💻 What I'm up to: Working on various websites and an iOS application.
+👨‍💻 What I'm up to: Working on various personal projects and interning as a full stack developer at Colgate-Palmolive.
 
-💻 Education: Junior at New Jersey Institute of Technology, studying Computer Science
+💻 Education: Studying Computer Science with a minor in Business at New Jersey Institute of Technology, May 2022
 
-🌐 Connect with me: [LinkedIn](https://linkedin.com/in/lucaspbastos) [Twitter](https://twitter.com/lucxspb) [Instagram](https://instagram.com/lucxspb)
+🌐 Connect with me: [LinkedIn](https://linkedin.com/in/lucaspbastos) [Instagram](https://instagram.com/lucxspb)
 
 🤸‍♂️ Visit my personal website: [lucasbastos.com](https://lucasbastos.com)
 
