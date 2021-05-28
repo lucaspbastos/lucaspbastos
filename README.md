@@ -8,7 +8,7 @@
 
 🌐 Visit my personal website: [lucasbastos.com](https://lucasbastos.com)
 
-<p style='text-align:center;'>
+<p align='center'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspbastos&layout=compact'>
     <br>
     <img src='https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=for-the-badge&logoColor=white'>
