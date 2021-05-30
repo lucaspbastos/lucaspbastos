@@ -30,3 +30,4 @@
     <img src='https://img.shields.io/badge/-docker-2496ED?logo=docker&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-google%20cloud-4285F4?logo=google-cloud&style=for-the-badge&logoColor=white'>
 </p>
+<link rel="me" href="https://fosstodon.org/@lucasbastos">
