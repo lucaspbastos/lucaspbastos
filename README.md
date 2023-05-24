@@ -1,12 +1,8 @@
 # Hi there, I'm Lucas 👋
 
-👨‍💻 What I'm up to: Working at Johnson & Johnson as a software engineering co-op.
+👨‍💻 What I'm up to: Working at Johnson & Johnson as an incoming Software Engineering TLDP analyst.
 
-👨‍🏫 Learning: Security and privacy, Database Management, and Cloud Computing.
-
-📚 Education: *Completed*: B.S. Computer Science with a minor in Business from New Jersey Institute of Technology.
-
-*In Progress*: M.S. in Computer Science from New Jersey Institute of Technology.
+📚 Education: B.S. and M.S. Computer Science with a minor in Business from New Jersey Institute of Technology.
 
 🤝 Connect with me: <a target="_blank" rel="noopener noreferrer" href='https://linkedin.com/in/lucaspbastos'><img src='https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white'></a> <a target="_blank" rel="noopener noreferrer" href='mailto:lucas@lucasbastos.com'><img src='https://img.shields.io/badge/-✉️%20lucas@lucasbastos.com-1D7BF3?&style=for-the-badge&logoColor=white'></a>
 
@@ -34,6 +30,7 @@
     <img src='https://img.shields.io/badge/-react-61DAFB?logo=react&style=for-the-badge&logoColor=black'>
     <img src='https://img.shields.io/badge/-django-092E20?logo=django&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-heroku-430098?logo=heroku&style=for-the-badge&logoColor=white'>
+    <img src='https://img.shields.io/badge/-aws-232F3E?logo=amazonaws&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-docker-2496ED?logo=docker&style=for-the-badge&logoColor=white'>
     <img src='https://img.shields.io/badge/-kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white'>
 </p>
