@@ -2,7 +2,7 @@
 
 👨‍💻 What I'm up to: Working at Johnson & Johnson as an incoming Software Engineering TLDP analyst.
 
-📚 Education: B.S. and M.S. Computer Science with a minor in Business from New Jersey Institute of Technology.
+📚 Education: BS and MS Computer Science with a minor in Business from New Jersey Institute of Technology.
 
 🤝 Connect with me: <a target="_blank" rel="noopener noreferrer" href='https://linkedin.com/in/lucaspbastos'><img src='https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white'></a> <a target="_blank" rel="noopener noreferrer" href='mailto:lucas@lucasbastos.com'><img src='https://img.shields.io/badge/-✉️%20lucas@lucasbastos.com-1D7BF3?&style=for-the-badge&logoColor=white'></a>
 
