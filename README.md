@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas 👋
 
-👨‍💻 What I'm up to: Working at Johnson & Johnson as an incoming Software Engineering TLDP analyst.
+👨‍💻 What I'm up to: Working at Johnson & Johnson as a Software Engineering TLDP analyst.
 
 📚 Education: BS and MS Computer Science with a minor in Business from New Jersey Institute of Technology.
 
