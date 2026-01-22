@@ -1,6 +1,6 @@
 # Hi there, I'm Lucas 👋
 
-👨‍💻 What I'm up to: Working at Johnson & Johnson as an Experinced Engineer under the Full Stack Chapter (Technology Services).
+👨‍💻 What I'm up to: Senior Software Engineer at Capital One.
 
 📚 Education: BS and MS Computer Science with a minor in Business from New Jersey Institute of Technology.
 
